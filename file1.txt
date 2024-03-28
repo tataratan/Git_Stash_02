@@ -1,5 +1,12 @@
 code1
 code2
 
+<<<<<<< Updated upstream
 Hello all 
 This is Git class
+=======
+
+code1
+code2
+code3
+>>>>>>> Stashed changes
